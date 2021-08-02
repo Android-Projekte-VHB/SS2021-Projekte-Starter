@@ -1,4 +1,4 @@
-# Die App
+# Name Ihrer App
 
 _Beschreiben Sie entlang der vorgegebenen Struktur Ihre Anwendung. Nutzen Sie dazu Screenshots, Videos und andere, Ihnen sinnvoll erscheinenden Medien. Beginnen Sie mit einer knappen Zusammenfassung, die den durch Ihre App generierten Mehrwert für die intendierten Nutzer\*innen deutlich macht._
 
